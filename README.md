@@ -1,9 +1,9 @@
-# Car Gallery Management System 🚗
+# Car Gallery Management System 
 
 ##  Project Description
 This project is a desktop automation application developed to facilitate vehicle tracking and sales processes for car galleries. Built with **Java Swing** for the interface and **MySQL** for the database, it utilizes the **DAO (Data Access Object)** design pattern for efficient data management.
 
-📢 **Note:** For detailed architecture diagrams, flowcharts, and project details, please refer to the **`Presentation.pptx`** file included in this repository.
+ **Note:** For detailed architecture diagrams, flowcharts, and project details, please refer to the **`Presentation.pptx`** file included in this repository.
 
 ##  Key Features
 * **User Authentication:** Secure admin login and registration system.
