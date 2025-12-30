@@ -42,3 +42,8 @@ Open `src/pack1/DBConnection.java` and ensure the credentials match your local s
 private static final String URL = "jdbc:mysql://localhost:3306/car_gallery";
 private static final String USER = "root";
 private static final String PASSWORD = ""; // Leave empty if you don't have a password
+```
+### 4. Running the Application
+1.  Navigate to src/pack1/AppMain.java.
+2.  Right-click and select Run As > Java Application.
+3.  Register a new account via the "Sign Up" button to get started.
